@@ -1,0 +1,67 @@
+/* 1. Custom font */
+body {
+  font-family: Georgia, serif;
+  font-size: 18px;
+}
+
+/* 2. Color scheme */
+body {
+  background-color: #f9f6f1;
+  color: #222222;
+}
+
+a {
+  color: #b04a2f;
+}
+
+nav {
+  background-color: #222222;
+  padding: 12px 24px;
+}
+
+nav a {
+  color: #f9f6f1;
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+/* 3. Margins, padding, and layout */
+body {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+nav {
+  margin-bottom: 40px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin-top: 40px;
+}
+
+h3 {
+  font-size: 1.3rem;
+  margin-top: 30px;
+}
+
+img {
+  margin: 20px 0;
+  display: block;
+}
+
+p {
+  line-height: 1.7;
+  margin-bottom: 16px;
+}
+
+ul {
+  line-height: 1.9;
+  padding-left: 20px;
+}
